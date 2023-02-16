@@ -1,4 +1,4 @@
-**Macronutrients Logger**
+**###Macronutrients Logger**
 
 A log for your daily intake of macronutrients.
 
